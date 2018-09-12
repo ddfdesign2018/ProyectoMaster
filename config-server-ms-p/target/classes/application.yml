@@ -8,4 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/diegodf8/SptringConfig
+          uri: https://github.com/ddfdesign2018/SpringConfig
+          # uri: https://github.com/diegodf8/SptringConfig
